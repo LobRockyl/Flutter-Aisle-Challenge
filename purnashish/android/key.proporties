@@ -1,0 +1,4 @@
+storePassword=helloworld
+keyPassword=helloworld
+keyAlias=purnashish
+storeFile=/home/aayush/upload-keystore.jks
